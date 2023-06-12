@@ -1,0 +1,40 @@
+December to May
+
+OOP - abstraction, trait, Authentication, 
+
+PHP
+
+SQL - Join, mystructured query language, select, insert, delete workbench
+
+GIT- remote Origin, branching, stashing, 
+
+LARAVEL-breeze(Authentication scalfolding)
+       -spatie(role and permission)
+       -facade
+       -passport/sanctum(api authentication)
+
+php artisan make:modeL ModelName -a
+Always use named route
+Confirm before deleting(sweet alert)
+
+NAMING CONVENTION - URL: Small call
+                  - Model: plural
+                  - Controller: Singular
+                  - View directory should correspond to model
+
+DATABASE SCALING - Vertical Scaling: Add hardware resources (CPU, Memory)
+                 - Horizontal Scaling: Add more database with load balancer
+
+DATABASE SCHEMA: design approach for relational database
+ACID-> Atomicity|Consistency|Integrity|Durability
+
+Relational Database Design (RDD)
+     - Relations and attributes
+     - Primary Key
+     - Relationship |- one to one
+                    |- one to many
+                    |- many to many
+
+     - Normalization |- 1nf
+                     |- 2nf
+                     |- 3nf
