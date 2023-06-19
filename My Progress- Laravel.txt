@@ -38,3 +38,16 @@ Relational Database Design (RDD)
      - Normalization |- 1nf
                      |- 2nf
                      |- 3nf
+
+New features in php 8
+     - match express
+     - named argument
+     - null safe
+     - union type can be fused
+
+Design Principles
+      Single responsibilities Principles
+      Open(for extension)-close(for modification) Principles
+      Liskov substitution Principles
+      Interface segregation Principles
+      Dependency inversion Principles
